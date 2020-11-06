@@ -1,4 +1,2 @@
 # hello-world
-Just a repositors
-it's chaimaa
-daoudi
+Just a repository
